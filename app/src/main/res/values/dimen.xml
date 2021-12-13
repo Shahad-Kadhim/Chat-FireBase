@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextViewRecPaddingVertical">24dp</dimen>
+    <dimen name="TextViewRecPaddingHorizontal">32dp</dimen>
+    <dimen name="TextViewRecVertical">16dp</dimen>
+    <dimen name="LayoutSendPadding">16dp</dimen>
+    <dimen name="LayoutMessageMarginTop">16dp</dimen>
+    <dimen name="LayoutMessagePaddingLeft">32dp</dimen>
+    <dimen name="LayoutMessagePaddingRight">16dp</dimen>
+    <dimen name="TextMessagePaddingTop">16dp</dimen>
+    <dimen name="TextMessageSize">16sp</dimen>
+    <dimen name="TimeMarginHorizontal">5dp</dimen>
+    <dimen name="ParentLayoutPadding">24dp</dimen>
+    <dimen name="Radius">50dp</dimen>
+    <dimen name="LineSpacing">7sp</dimen>
+</resources>

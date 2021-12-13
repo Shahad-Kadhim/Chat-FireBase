@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619764694595",
+    "firebase_url": "https://chat-app-86187-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-app-86187",
+    "storage_bucket": "chat-app-86187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619764694595:android:d145b601d67351de671ef6",
+        "android_client_info": {
+          "package_name": "com.shahad.app.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619764694595-e273br1uk01hsln6f6uq12naplp3i0dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PNE9U-XVirUct5t25WXQYr0pxyarwNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619764694595-e273br1uk01hsln6f6uq12naplp3i0dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
